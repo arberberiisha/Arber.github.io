@@ -2299,7 +2299,7 @@ input, select, textarea {
 			.grid-container {
 				display: grid;
 				grid-template-columns: repeat(2, 1fr);
-				gap: 15%;
+				column-gap: 15%;
 				text-align: left;
 			}
 

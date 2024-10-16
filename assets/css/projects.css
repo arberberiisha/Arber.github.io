@@ -2300,6 +2300,7 @@ input, select, textarea {
 				display: grid;
 				grid-template-columns: repeat(2, 1fr);
 				column-gap: 15%;
+				row-gap:5%;
 				text-align: left;
 			}
 
